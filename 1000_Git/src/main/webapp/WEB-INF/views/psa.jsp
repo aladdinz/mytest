@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-자기 파일에 본인 이름좀 쓰세요
+
 </body>
 </html>
